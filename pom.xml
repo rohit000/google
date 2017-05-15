@@ -12,7 +12,7 @@
   <scm>
     <connection>scm:git:https://github.com/rohit000/google.git</connection>
     <developerConnection>scm:git:https://github.com/rohit000/google.git</developerConnection>
-    <url>http:https://github.com/rohit000/google.git</url>
+    <url>https://github.com/rohit000/google.git</url>
   </scm>
 
   <properties>
